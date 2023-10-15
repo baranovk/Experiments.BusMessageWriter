@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Experiments.BusMessageWriter.csproj" />
+    <ProjectReference Include="..\..\src\Experiments.BusMessageWriter\Experiments.BusMessageWriter.csproj" />
   </ItemGroup>
 
 </Project>
